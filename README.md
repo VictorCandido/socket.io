@@ -1,3 +1,3 @@
 # Exemplo de chat utilizando Socket.io e NodeJs
 
-Run ```npm install``` to install all the dependencies.
+Run ```npm install``` before start the server, to install all the dependencies.
